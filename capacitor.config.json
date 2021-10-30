@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "CLIDemo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
